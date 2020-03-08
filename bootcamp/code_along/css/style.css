@@ -1,0 +1,60 @@
+body{
+  background-color: #000099;
+  color: red;
+  font-family: "roboto", sans-serif;
+}
+
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  font-weight: normal;
+  font-family: "Old English Text MT",serif;
+  background-color: black;
+  border: 2px solid blue;
+  padding:30px 0;
+  margin: 20, auto;
+  margin-bottom: 80px;
+}
+
+
+
+h2{
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  font-weight: bold;
+  font-family: "Old English Text MT",serif;
+}
+
+p{
+  width: 500px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+#first-list{
+background-color: green;
+text-align: center;
+}
+
+#first-list li {
+  display: inline-block;
+  margin: 20px
+}
+
+.mammals{
+  color: red;
+  font-weight: bold;
+}
+
+.birds{
+  color: blue;
+  font-style: italic;
+}
+
+.fish{
+  color: orange;
+  text-decoration: underline;
+}
